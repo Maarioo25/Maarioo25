@@ -156,10 +156,6 @@ Me siento orgulloso de ser estudiante en el centro [**I.E.S Luis Vives**](https:
         <img loading="lazy" src="https://obsproject.com/assets/images/new_icon_small-r.png" 
     height="45">
     </a>&nbsp;&nbsp;
-    <a href="https://streamlabs.com/es-es/" target="_blank">
-        <img loading="lazy" src="https://assets.stickpng.com/images/608563de8ae72d000493caa0.png" 
-    height="45">
-    </a>&nbsp;&nbsp;
     <a href="https://www.blackmagicdesign.com/es/products/davinciresolve" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" 
     height="45">
