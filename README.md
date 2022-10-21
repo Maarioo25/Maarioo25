@@ -143,27 +143,27 @@ Me siento orgulloso de ser estudiante en el centro [**I.E.S Luis Vives**](https:
     <a href="https://www.gimp.org/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" 
     height="45">
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;
     <a href="https://inkscape.org/es/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1200px-Inkscape_Logo.svg.png" 
     height="45">
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;
     <a href="https://unity.com/es" target="_blank">
         <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" 
     height="45">
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;
     <a href="https://www.blender.org/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" 
     height="45">
-    </a>
+    </a>&nbsp;
     <a href="https://obsproject.com/es" target="_blank">
         <img loading="lazy" src="https://obsproject.com/assets/images/new_icon_small-r.png" 
     height="45">
-    </a>
+    </a>&nbsp;
     <a href="https://www.blackmagicdesign.com/es/products/davinciresolve" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" 
     height="45">
-    </a>&nbsp;&nbsp;
+    </a>
 </p>
 
 <p align="center">
