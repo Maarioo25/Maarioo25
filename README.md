@@ -18,7 +18,7 @@
 
 #  👋 Hola, soy Mario Bueno López 💻
 
-<img loading="lazy" height= "200" width=30% src=".\Mario Bueno.png" alt="Octogato" align="right">
+<img loading="lazy" height= "200" width=25% src=".\Mario Bueno.png" alt="Octogato" align="right">
 
 Tengo 18 años y en cuanto a estudios tengo el título de Bachillerato de Ciencias Tecnológicas en el [**I.E.S Butarque**](https://www.educa2.madrid.org/web/centro.ies.butarque.leganes) 👨‍🎓 junto con cursos en producción audiovisual y cine. Además, he trabajado de socorrista con la empresa [**Golden Pool S.L**](https://piscinasgoldenpool.es/) y he paricipado en multiples olimpiadas matemáticas organizadas por la Comunidad de Madrid.
 
