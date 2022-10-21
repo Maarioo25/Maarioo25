@@ -62,13 +62,6 @@ Me siento orgulloso de ser estudiante en el centro [**I.E.S Luis Vives**](https:
     </a>
 </p>
 
-<h2 align="center">☕ ¿Un café?</h2>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/MarioBueno" target="_blank"> 
-      <img loading="lazy" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="48" alt="joseluisgs" />
-    </a>
-  </p>
-
 <h2 align="center">⚡ Editores de texto favoritos</h2>
 
 <p align="center">
@@ -161,6 +154,13 @@ Me siento orgulloso de ser estudiante en el centro [**I.E.S Luis Vives**](https:
     <a href="https://www.blackmagicdesign.com/es/products/davinciresolve" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" 
     height="45">
+    </a>
+</p>
+
+<h2 align="center">💰Apóyame con una donación</h2>
+<p align="center">
+    <a href="https://www.buymeacoffee.com/MarioBueno" target="_blank"> 
+      <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/2399/2399022.png" height="100" alt="Mario Bueno" />
     </a>
 </p>
 
