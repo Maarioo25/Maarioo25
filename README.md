@@ -76,16 +76,14 @@ Me siento orgulloso de ser estudiante en el centro [**I.E.S Luis Vives**](https:
         <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
     height="45">
     </a>
-    <a href="https://lapce.dev/" target="_blank">
+  <a href="https://lapce.dev/" target="_blank">
         <img loading="lazy" src="https://raw.githubusercontent.com/lapce/lapce/master/extra/images/logo.png" 
     height="45">
     </a>
-    <a href="https://brackets.io/" target="_blank">
+  <a href="https://brackets.io/" target="_blank">
         <img loading="lazy" src="https://brackets.io/img/brackets.svg" 
     height="45">
     </a>
-  <img loading="lazy" src="" 
-  height="45">
 </p>
 
 <h2 align="center">⚡ Lenguajes favoritos</h2>
