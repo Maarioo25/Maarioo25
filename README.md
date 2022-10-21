@@ -7,18 +7,22 @@
 </p>
 
 <p align="center"> 
-  <img src="https://img.shields.io/aur/last-modified/s"/>
-  <img src="https://img.shields.io/github/followers/Maarioo25?style=social" alt="Maarioo25-github" />
-  <img src="https://img.shields.io/twitter/follow/__mariomdz__?style=social" alt="__mariomdz__-twitter" />
+    <img src="https://img.shields.io/aur/last-modified/s"/>
+    <a href="https://github.com/Maarioo25" target="_blank">
+        <img loadin="lazy" src="https://img.shields.io/github/followers/Maarioo25?style=social" alt="Maarioo25-github"/>
+    </a>
+    <a href="https://twitter.com/__mariomdz__" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/twitter/follow/__mariomdz__?style=social" alt="__mariomdz__-twitter" />
+    </a>
 </p>
 
 #  👋 Hola, soy Mario Bueno López 💻
 
-<img loading="lazy" height= "200" src=".\Mario Bueno.png" alt="Octogato" align="right">
+<img loading="lazy" height= "200" width=30% src=".\Mario Bueno.png" alt="Octogato" align="right">
 
 Tengo 18 años y en cuanto a estudios tengo el título de Bachillerato de Ciencias Tecnológicas en el [**I.E.S Butarque**](https://www.educa2.madrid.org/web/centro.ies.butarque.leganes) 👨‍🎓 junto con cursos en producción audiovisual y cine. Además, he trabajado de socorrista con la empresa [**Golden Pool S.L**](https://piscinasgoldenpool.es/) y he paricipado en multiples olimpiadas matemáticas organizadas por la Comunidad de Madrid.
 
-Estoy interesado en aplicaciones multiplataforma, web y móviles desde el servidor ⚙️ hasta el cliente 📱, también me interesa el desarrollo de videojuegos🎮 y la investigación sobre temas de tecnología actual.
+Estoy interesado en aplicaciones multiplataforma, web y móviles desde el servidor ⚙️ hasta el cliente 📱, también me interesa el desarrollo de videojuegos🎮.
 
 A parte de aprender y desarrollar, disfruto mucho con la música a la vez que me ayuda a relajarme y concentrame en los estudios, me encanta el fútbol ⚽, tocar la guitarra acústica 🎸, tocar el piano 🎹, jugar a videojuegos 🎮, ver series/películas 📺 y compartir buenos momentos con mis amigos. Me encanta seguir aprendiendo y seguir avanzando.
 
@@ -76,14 +80,16 @@ Me siento orgulloso de ser estudiante en el centro [**I.E.S Luis Vives**](https:
         <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
     height="45">
     </a>
-  <a href="https://lapce.dev/" target="_blank">
+    <a href="https://lapce.dev/" target="_blank">
         <img loading="lazy" src="https://raw.githubusercontent.com/lapce/lapce/master/extra/images/logo.png" 
     height="45">
     </a>
-  <a href="https://brackets.io/" target="_blank">
+    <a href="https://brackets.io/" target="_blank">
         <img loading="lazy" src="https://brackets.io/img/brackets.svg" 
     height="45">
     </a>
+  <img loading="lazy" src="" 
+  height="45">
 </p>
 
 <h2 align="center">⚡ Lenguajes favoritos</h2>
@@ -152,6 +158,10 @@ Me siento orgulloso de ser estudiante en el centro [**I.E.S Luis Vives**](https:
     </a>
     <a href="https://obsproject.com/es" target="_blank">
         <img loading="lazy" src="https://obsproject.com/assets/images/new_icon_small-r.png" 
+    height="45">
+    </a>&nbsp;&nbsp;
+    <a href="https://streamlabs.com/es-es/" target="_blank">
+        <img loading="lazy" src="https://assets.stickpng.com/images/608563de8ae72d000493caa0.png" 
     height="45">
     </a>&nbsp;&nbsp;
     <a href="https://www.blackmagicdesign.com/es/products/davinciresolve" target="_blank">
