@@ -56,10 +56,6 @@ Estoy desarrollando mi propia página web para utilizarla de Carta de Presentaci
         <img loading="lazy" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" 
     height="50"> 
     </a>&nbsp
-    <a href="https://www.reddit.com/user/xXMaarioo25Xx" target="_blank">
-        <img loading="lazy" src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" 
-    height="50">
-    </a>
 </p>
 
 <h2 align="center">⚡ Editores de texto favoritos</h2>
