@@ -73,6 +73,10 @@ Estoy desarrollando mi propia página web para utilizarla de Carta de Presentaci
         <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
     height="45">
     </a>
+  <a href="https://www.jetbrains.com/es-es/datagrip/" target="_blank">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/1024px-DataGrip.svg.png" 
+    height="45">
+    </a>
     <a href="https://lapce.dev/" target="_blank">
         <img loading="lazy" src="https://raw.githubusercontent.com/lapce/lapce/master/extra/images/logo.png" 
     height="45">
