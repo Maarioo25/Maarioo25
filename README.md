@@ -185,6 +185,6 @@ Estas son solo algunas de las tecnologías 💻 que más suelo usar y a las cual
 
 <p align="center"> 
   Visitas a mi perfil 
-  
+  <br>
   <img src=https://profile-counter.glitch.me/Maarioo25/count.svg/> 
 </p>
