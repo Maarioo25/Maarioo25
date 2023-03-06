@@ -20,17 +20,17 @@
 
 <img loading="lazy" height= "200" src=".\Mario Bueno.png" alt="Octogato" align="right">
 
-Tengo 18 años y en cuanto a estudios tengo el título de Bachillerato de Ciencias Tecnológicas en el [**I.E.S Butarque**](https://www.educa2.madrid.org/web/centro.ies.butarque.leganes) 👨‍🎓 junto con cursos en producción audiovisual y cine. Además, he trabajado de socorrista con la empresa [**Golden Pool S.L**](https://piscinasgoldenpool.es/) y he paricipado en multiples olimpiadas matemáticas organizadas por la Comunidad de Madrid.
+Tengo 18 años y actualmente estoy cursando un Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el [**I.E.S Luis Vives**] (https://www.iesluisvives.es/)
 
-Estoy interesado en aplicaciones multiplataforma, web y móviles desde el servidor ⚙️ hasta el cliente 📱, también me interesa el desarrollo de videojuegos🎮.
+En cuanto a estudios, tengo el título de Bachillerato de Ciencias Tecnológicas en el [**I.E.S Butarque**](https://www.educa2.madrid.org/web/centro.ies.butarque.leganes) 👨‍🎓 y he temrinado dos cursos en producción audiovisual y cine. Además, he trabajado de socorrista con la empresa [**Golden Pool S.L**](https://piscinasgoldenpool.es/) y he paricipado en multiples olimpiadas matemáticas organizadas por la Comunidad de Madrid.
 
-A parte de aprender y desarrollar, disfruto mucho con la música a la vez que me ayuda a relajarme y concentrame en los estudios, me encanta el fútbol ⚽, tocar la guitarra acústica 🎸, tocar el piano 🎹, jugar a videojuegos 🎮, ver series/películas 📺 y compartir buenos momentos con mis amigos. Me encanta seguir aprendiendo y seguir avanzando.
+Estoy interesado en el desarrollo de aplicaciones multiplataforma, web y móviles desde el servidor ⚙️ hasta el cliente 📱, también me interesa el desarrollo de videojuegos🎮.
+
+A parte de aprender y desarrollar, disfruto mucho con la música a la vez que me ayuda a relajarme y concentrame en los estudios, me encanta el fútbol ⚽, tocar la guitarra acústica 🎸, tocar el piano 🎹, jugar a videojuegos 🎮, ver series/películas 📺 y compartir buenos momentos con mis amigos. Soy muy autodidacta y me gusta desarrollar mis estudios siempre que puedo.
 
 Este es mi **repositorio personal**, úsalo como quieras. En ellos subo proyectos que aplico a temas personales o de clase 🛠. Generalmente están sobrecomentados y a veces no realizados de la manera más óptima, porque son para fines personales mayoritariamente. El objetivo es que sepa entenderlo con solo leerlos, sin tener que ejecutarlos, o eso intento... Si te gusta algo de aquí déjame una estrella, sígueme y sobre todo dame ideas para mejorar 💪.
 
 Estoy desarrollando mi propia página web para utilizarla de Carta de Presentación a la hora de buscar empleo en un futuro.
-
-Me siento orgulloso de ser estudiante en el centro [**I.E.S Luis Vives**](https://www.iesluisvives.es/) y formarme junto con un profesorado y alumnado magnífico.
 
 <h2 align="center">📫 Contacto</h2>
 <p align="center">
