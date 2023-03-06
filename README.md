@@ -115,7 +115,7 @@ Estoy desarrollando mi propia página web para utilizarla de Carta de Presentaci
 
 <h2 align="center">⚡ Otras Herramientas</h2>
 <p align="center">
-  <a href="https://www.microsoft.com/es-es/microsoft-365/word?activetab=tabs%3afaqheaderregion3" target="_blank">
+    <a href="https://www.microsoft.com/es-es/microsoft-365/word?activetab=tabs%3afaqheaderregion3" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" 
     height="45">
     </a>&nbsp;&nbsp;
@@ -157,6 +157,10 @@ Estoy desarrollando mi propia página web para utilizarla de Carta de Presentaci
     </a>&nbsp;
     <a href="https://www.blackmagicdesign.com/es/products/davinciresolve" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" 
+    height="45">
+    </a>
+    <a href="https://www.apachefriends.org/es/index.html" target="_blank">
+        <img loading="lazy" src="https://static-00.iconduck.com/assets.00/xampp-icon-507x512-8c1bi2hr.png" 
     height="45">
     </a>
 </p>
