@@ -7,12 +7,11 @@
 </p>
 
 <p align="center"> 
-    <img src="https://img.shields.io/aur/last-modified/s"/>
     <a href="https://github.com/Maarioo25" target="_blank">
-        <img loadin="lazy" src="https://img.shields.io/github/followers/Maarioo25?style=social" alt="Maarioo25-github"/>
+        <img loadin="lazy" src="https://img.shields.io/github/followers/Maarioo25?color=black&logo=GitHub&style=for-the-badge" alt="Maarioo25-github"/>
     </a>
     <a href="https://twitter.com/_mariobueno04" target="_blank">
-        <img loading="lazy" src="https://img.shields.io/twitter/follow/_mariobueno04?style=social" alt="_mariobueno04-twitter" />
+        <img loading="lazy" src="https://img.shields.io/twitter/follow/_mariobueno04?label=%40_mariobueno04&logo=twitter&style=for-the-badge&color=black" alt="_mariobueno04-twitter" />
     </a>
 </p>
 
@@ -20,21 +19,22 @@
 
 <img loading="lazy" height= "200" src=".\Mario Bueno.png" alt="Octogato" align="right">
 
-Tengo 18 años y actualmente estoy cursando un Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el [**I.E.S Luis Vives**] (https://www.iesluisvives.es/)
+📩About Me:
 
-En cuanto a estudios, tengo el título de Bachillerato de Ciencias Tecnológicas en el [**I.E.S Butarque**](https://www.educa2.madrid.org/web/centro.ies.butarque.leganes) 👨‍🎓 y he temrinado dos cursos en producción audiovisual y cine. Además, he trabajado de socorrista con la empresa [**Golden Pool S.L**](https://piscinasgoldenpool.es/) y he paricipado en multiples olimpiadas matemáticas organizadas por la Comunidad de Madrid.
-
-Estoy interesado en el desarrollo de aplicaciones multiplataforma, web y móviles desde el servidor ⚙️ hasta el cliente 📱, también me interesa el desarrollo de videojuegos🎮.
-
-A parte de aprender y desarrollar, disfruto mucho con la música a la vez que me ayuda a relajarme y concentrame en los estudios, me encanta el fútbol ⚽, tocar la guitarra acústica 🎸, tocar el piano 🎹, jugar a videojuegos 🎮, ver series/películas 📺 y compartir buenos momentos con mis amigos. Soy muy autodidacta y me gusta desarrollar mis estudios siempre que puedo.
-
-Este es mi **repositorio personal**, úsalo como quieras. En ellos subo proyectos que aplico a temas personales o de clase 🛠. Generalmente están sobrecomentados y a veces no realizados de la manera más óptima, porque son para fines personales mayoritariamente. El objetivo es que sepa entenderlo con solo leerlos, sin tener que ejecutarlos, o eso intento... Si te gusta algo de aquí déjame una estrella, sígueme y sobre todo dame ideas para mejorar 💪.
+- Actualmente estoy cursando un Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el [**I.E.S Luis Vives**](https://www.iesluisvives.es/)
+- Apasionado de la programación y las matemáticas, con planes de estudiar ingeniería en el futuro. 
+- Me gusta la música para relajarme mientras estudio y disfruto de varios pasatiempos como el fútbol, tocar el piano, jugar videojuegos, ver series y películas, y pasar tiempo con amigos.
 
 Estoy desarrollando mi propia página web para utilizarla de Carta de Presentación a la hora de buscar empleo en un futuro.
 
+**Soy muy autodidacta y me gusta desarrollar mis estudios siempre que puedo.**
+
+Iré añadiendo contenido a mis repositorios con proyectos personales y trabajos que vaya realizando en clase, te agradecería que les echases un vistazo y que si encuentras algún fallo o alguna posible mejora en el código me lo hagas saber a través de mis redes sociales para poder seguir mejorando.
+
+
 <h2 align="center">📫 Contacto</h2>
 <p align="center">
-  Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
+  Cualquier cosa que necesites házmelo saber 💬.
 </p>
 <p align="center">
     <a href="https://github.com/Maarioo25" target="_blank">
@@ -163,7 +163,7 @@ Estoy desarrollando mi propia página web para utilizarla de Carta de Presentaci
   </a>
 </p>
 
-<h2 align="center">💰Apóyame con una donación</h2>
+<h2 align="center">💰Apóyame para seguir aprendiendo</h2>
 <p align="center">
     <a href="https://www.buymeacoffee.com/MarioBueno" target="_blank"> 
       <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/2399/2399022.png" height="100" alt="Mario Bueno" />
@@ -171,8 +171,7 @@ Estoy desarrollando mi propia página web para utilizarla de Carta de Presentaci
 </p>
 
 <p align="center">
-Estas son solo algunas de las tecnologías 💻 que más suelo usar y a las cuales les agradezco su utilidad.
-<br>👉 Pero algo se me olvida seguro 🤔
+
 </p>
 
 
