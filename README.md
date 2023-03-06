@@ -44,7 +44,7 @@ Estoy desarrollando mi propia página web para utilizarla de Carta de Presentaci
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" 
     height="50">
     </a> &nbsp;&nbsp;
-    <a href="https://twitter.com/__mariomdz__" target="_blank">
+    <a href="https://twitter.com/_mariobueno04" target="_blank">
         <img loading="lazy" src="https://i.imgur.com/U4Uiaef.png" 
     height="50">
     </a> &nbsp;&nbsp;
