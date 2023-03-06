@@ -19,7 +19,7 @@
 
 <img loading="lazy" height= "200" src=".\Mario Bueno.png" alt="Octogato" align="right">
 
-📩About Me:
+### 📩About Me :
 
 - Actualmente estoy cursando un Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el [**I.E.S Luis Vives**](https://www.iesluisvives.es/)
 - Apasionado de la programación y las matemáticas, con planes de estudiar ingeniería en el futuro. 
@@ -35,6 +35,10 @@ Iré añadiendo contenido a mis repositorios con proyectos personales y trabajos
 <h2 align="center">📫 Contacto</h2>
 <p align="center">
   Cualquier cosa que necesites házmelo saber 💬.
+
+  <p align="center">
+    <a href="mailto:"> mariobueno060@gmail.com </a>
+  </p>
 </p>
 <p align="center">
     <a href="https://github.com/Maarioo25" target="_blank">
