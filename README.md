@@ -180,3 +180,6 @@ Estoy desarrollando mi propia página web para utilizarla de Carta de Presentaci
 Estas son solo algunas de las tecnologías 💻 que más suelo usar y a las cuales les agradezco su utilidad.
 <br>👉 Pero algo se me olvida seguro 🤔
 </p>
+
+Visitas a mi perfil:
+<p align="center"> <img src=https://profile-counter.glitch.me/Maarioo25/count.svg/> </p>
