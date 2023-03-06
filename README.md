@@ -11,8 +11,8 @@
     <a href="https://github.com/Maarioo25" target="_blank">
         <img loadin="lazy" src="https://img.shields.io/github/followers/Maarioo25?style=social" alt="Maarioo25-github"/>
     </a>
-    <a href="https://twitter.com/mariobueno04_" target="_blank">
-        <img loading="lazy" src="https://img.shields.io/twitter/follow/mariobueno04_?style=social" alt="mariobueno04_-twitter" />
+    <a href="https://twitter.com/_mariobueno04" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/twitter/follow/_mariobueno04?style=social" alt="_mariobueno04-twitter" />
     </a>
 </p>
 
