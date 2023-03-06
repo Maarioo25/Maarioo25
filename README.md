@@ -111,6 +111,8 @@ Estoy desarrollando mi propia página web para utilizarla de Carta de Presentaci
   height="45">
   <img loading="lazy" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" 
   height="45">
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" 
+  height="45">
 </p>
 
 <h2 align="center">⚡ Otras Herramientas</h2>
@@ -162,11 +164,7 @@ Estoy desarrollando mi propia página web para utilizarla de Carta de Presentaci
     <a href="https://www.apachefriends.org/es/index.html" target="_blank">
         <img loading="lazy" src="https://static-00.iconduck.com/assets.00/xampp-icon-507x512-8c1bi2hr.png" 
     height="45">
-    </a>
-    <a>
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" 
-    height="45">
-    </a>
+  </a>
 </p>
 
 <h2 align="center">💰Apóyame con una donación</h2>
