@@ -62,7 +62,7 @@ Iré añadiendo contenido a mis repositorios con proyectos personales y trabajos
     </a>&nbsp
 </p>
 
-<h2 align="center">⚡ Editores de texto favoritos</h2>
+<h2 align="center">⚡ IDEs y Herramientas favorit@s</h2>
 
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
