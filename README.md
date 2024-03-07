@@ -22,8 +22,7 @@
 ### 📩About Me :
 
 - Actualmente estoy cursando un Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el [**I.E.S Luis Vives**](https://www.iesluisvives.es/)
-- Apasionado de la programación y las matemáticas, con planes de estudiar ingeniería en el futuro. 
-- Me gusta la música para relajarme mientras estudio y disfruto de varios pasatiempos como el fútbol, tocar el piano, jugar videojuegos, ver series y películas, y pasar tiempo con amigos.
+- Apasionado de la programación y las matemáticas, con planes de estudiar ingeniería en el futuro.
 
 Estoy desarrollando mi propia página web para utilizarla de Carta de Presentación a la hora de buscar empleo en un futuro.
 
