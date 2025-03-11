@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Maarioo25" target="_blank">
-    <img loading="lazy" height="200" style="border-radius: 0.25rem;" 
-      src="./banner.jpeg" alt="Banner">
-  </a>
-</p>
-
 <p align="center"> 
     <a href="https://github.com/Maarioo25" target="_blank">
         <img loading="lazy" src="https://img.shields.io/github/followers/Maarioo25?color=black&logo=GitHub&style=for-the-badge" alt="Github followers"/>
