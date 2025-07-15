@@ -2,38 +2,41 @@
     <a href="https://github.com/Maarioo25" target="_blank">
         <img loading="lazy" src="https://img.shields.io/github/followers/Maarioo25?color=black&logo=GitHub&style=for-the-badge" alt="Github followers"/>
     </a>
-    <a href="https://twitter.com/_mariobueno04" target="_blank">
-        <img loading="lazy" src="https://img.shields.io/twitter/follow/_mariobueno04?label=%40_mariobueno04&logo=twitter&style=for-the-badge&color=black" alt="Twitter followers" />
-    </a>
 </p>
 
 # 👋 Hola, soy Mario Bueno López 💻
+# Desarrollador FullStack
 
 <img loading="lazy" height="200" src="./Mario%20Bueno.png" alt="Octogato" align="right">
 
 ### 📩 Sobre mí:
 
-- Actualmente estoy cursando un Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el [**I.E.S Luis Vives**](https://www.iesluisvives.es/).
-- Apasionado por la programación y las matemáticas, con planes de estudiar ingeniería en el futuro.
-- Estoy desarrollando mi propia página web para usarla como carta de presentación al buscar empleo.
+- Técnico Superior en Desarrollo de Aplicaciones Multiplatafórma.
+- Apasionado por la programación y la música, con planes de estudiar ingeniería del software en el futuro.
+- Estoy desarrollando mi propio portfolio personal para poder mostrar mis proyecto de una forma más interactiva y profesional.
 
 **Soy autodidacta y siempre busco formas de mejorar mis habilidades.**
 
-Voy añadiendo contenido a mis repositorios con proyectos personales y trabajos realizados en clase. Agradezco tus comentarios y sugerencias a través de mis redes sociales para seguir aprendiendo.
+Voy añadiendo contenido a mis repositorios con proyectos personales y trabajos realizados a lo largo de mi formación. Agradezco tus comentarios y sugerencias a través de mis redes sociales para seguir aprendiendo.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### [Portafolio Personal](https://github.com/Maarioo25/portafolio)
-- **Descripción:** Una página web estática para presentar mis proyectos.
-- **Tecnologías:** HTML, CSS, JavaScript.
-- **Destacado:** Uso de diseño responsivo y animaciones personalizadas.
+### [HiFybe 🎵](https://mariobueno.info)
+- **Descripción:** Una red social para los amantes de la música, la desarrollé como Trabajo de fin de grado, obteniendo una nota de 9/10.
+- **Tecnologías:** React, Vite, HTML, TailWind, JavaScript, Node.js, MongoDB, React Native.
+- **Destacado:** Uso de la API de Spotify, Login y almacenamiento de datos tanto en tokens, como en cookies como en base de datos de forma segura y cifrada a través de JWT y OAuth2.0, Poder ver lo que está escuchando la gente cerca de ti gracias a la geolocalización, Gestión de mi propio dominio web y Host de la aplicación en dicho dominio personalizado.
 
-### [Aplicación DAM](https://github.com/Maarioo25/aplicacion-dam)
-- **Descripción:** Una app desarrollada como proyecto del Grado Superior de DAM.
-- **Tecnologías:** Kotlin, XML.
-- **Destacado:** Implementación de arquitectura MVVM.
+### [BlackJack 🃏](https://github.com/Maarioo25/BlackJack)
+- **Descripción:** Juego de BlackJack con apuestas personalizadas, personalización de usuario, bots con decisiones propias y registro de apuestas.
+- **Tecnologías:** Java y JavaFX
+- **Destacado:** Fue de mis primeras aplicaciones con interfaz de usuario, y la presenté como trabajo final de 1º de Desarrollo de Aplicaciones Multiplataforma, consiguiendo también una nota de 9/10.
+
+### [Reproductor de Música 🎧](https://github.com/Maarioo25/ReproductorDeMusica)
+- **Descripción:** Reproductor de música con una API personalizada que almacena la música.
+- **Tecnologías:** C#, Visual Studio.
+- **Destacado:** Gracias a esta aplicación fue por la que me decidí a desarrollar una Red Social desde 0 centrada en la música y en poder compartirla con quien tu quisieses.
 
 ---
 
@@ -46,16 +49,10 @@ Voy añadiendo contenido a mis repositorios con proyectos personales y trabajos 
   </p>
 </p>
 <p align="center">
-    <a href="https://github.com/Maarioo25" target="_blank">
-        <img loading="lazy" src="https://distreau.com/github.svg" height="50">
-    </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/_mariobueno/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" height="50">
     </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/_mariobueno04" target="_blank">
-        <img loading="lazy" src="https://i.imgur.com/U4Uiaef.png" height="50">
-    </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mario-bueno-l%C3%B3pez-a35181250/" target="_blank">
+    <a href="https://www.linkedin.com/in/mario-bueno-l%C3%B3pez-b7b0b5375/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="50">
     </a>&nbsp;&nbsp;
     <a href="https://discordapp.com/users/Maarioo25#3802" target="_blank">
@@ -88,10 +85,8 @@ Voy añadiendo contenido a mis repositorios con proyectos personales y trabajos 
     <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="45">
     <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="45">
     <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="45">
-    <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="45">
     <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="45">
     <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="45">
-    <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="45">
     <img loading="lazy" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="45">
     <img loading="lazy" src="https://cdn.iconscout.com/icon/free/png-256/xml-file-2330558-1950399.png" height="45">
     <img loading="lazy" src="https://res.cloudinary.com/dtbpucouh/image/upload/v1676917917/MySQL-Logo_slj0o5.png" height="45">
@@ -150,16 +145,4 @@ Voy añadiendo contenido a mis repositorios con proyectos personales y trabajos 
     <a href="https://www.buymeacoffee.com/MarioBueno" target="_blank"> 
       <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/2399/2399022.png" height="100" alt="Mario Bueno" />
     </a>
-</p>
-
-<p align="center">
-
-</p>
-
-
-
-<p align="center"> 
-  Visitas a mi perfil 
-  <br>
-  <img src=https://profile-counter.glitch.me/Maarioo25/count.svg/> 
 </p>
