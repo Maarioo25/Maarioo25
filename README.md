@@ -12,7 +12,7 @@
 ### 📩 Sobre mí:
 
 - Técnico Superior en Desarrollo de Aplicaciones Multiplatafórma.
-- Apasionado por la programación y la música, con planes de estudiar ingeniería del software en el futuro.
+- Apasionado por la programación y la música, nunca cierro las puertas a seguir formandome en lo que me entusiasma y apasiona.
 - Estoy desarrollando mi propio portfolio personal para poder mostrar mis proyecto de una forma más interactiva y profesional.
 
 **Soy autodidacta y siempre busco formas de mejorar mis habilidades.**
